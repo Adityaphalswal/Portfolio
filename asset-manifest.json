@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.787cce70.css",
-    "main.js": "/static/js/main.c4a38f4f.js",
+    "main.css": "/static/css/main.67953f07.css",
+    "main.js": "/static/js/main.a030b2ec.js",
     "static/media/desk background.jpeg": "/static/media/desk background.bc6c96b28912369efed6.jpeg",
     "static/media/AdityaLogo.png": "/static/media/AdityaLogo.90371fc91d16805ecab2.png",
     "static/media/instagram.svg": "/static/media/instagram.8ff7ce92ad753b591ed4c1d03e84c026.svg",
@@ -9,11 +9,11 @@
     "static/media/fiverr.svg": "/static/media/fiverr.e7902bddb43fdc0aa934aaee7e35b8c7.svg",
     "index.html": "/index.html",
     "static/media/linkedin.svg": "/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
-    "main.787cce70.css.map": "/static/css/main.787cce70.css.map",
-    "main.c4a38f4f.js.map": "/static/js/main.c4a38f4f.js.map"
+    "main.67953f07.css.map": "/static/css/main.67953f07.css.map",
+    "main.a030b2ec.js.map": "/static/js/main.a030b2ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.787cce70.css",
-    "static/js/main.c4a38f4f.js"
+    "static/css/main.67953f07.css",
+    "static/js/main.a030b2ec.js"
   ]
 }
